@@ -83,7 +83,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #fff;
+		background: #ffffff;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -122,7 +122,7 @@ input, select, textarea {
 		}
 
 	strong, b {
-		color: #787878;
+		color: #ad5353;
 		font-weight: 400;
 	}
 
@@ -1841,7 +1841,7 @@ input, select, textarea {
 		input[type="email"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #49bf9d;
+			border-color: #bf49af;
 		}
 
 	select {
@@ -2072,7 +2072,7 @@ input, select, textarea {
 				transition: opacity 0.2s ease-in-out;
 				border-radius: 0.35em;
 				border: solid 3px rgba(255, 255, 255, 0.5);
-				color: #fff;
+				color: #ffffff;
 				content: 'View';
 				display: inline-block;
 				font-size: 0.8em;
@@ -2464,8 +2464,8 @@ input, select, textarea {
 		input[type="reset"]:hover,
 		input[type="button"]:hover,
 		.button:hover {
-			border-color: #49bf9d;
-			color: #49bf9d !important;
+			border-color: #bf4992;
+			color: #bb49bf !important;
 		}
 
 		input[type="submit"]:active,
@@ -2813,7 +2813,7 @@ input, select, textarea {
 			}
 
 		.poptrox-popup .caption {
-			background: #fff;
+			background: #4f95a7;
 			bottom: 0;
 			cursor: default;
 			font-size: 0.9em;
